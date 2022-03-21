@@ -6,7 +6,6 @@ certifi==2019.11.28
 cffi==1.14.0
 chardet==3.0.4
 click==8.0.4
-cm-rgb==0.3.6
 colorama==0.4.3
 cryptography==2.8
 dbus-python==1.2.16
@@ -16,7 +15,6 @@ fasteners==0.14.1
 Flask==2.0.3
 future==0.18.2
 gunicorn==20.1.0
-hidapi==0.11.0.post2
 html5lib==1.0.1
 httplib2==0.14.0
 idna==2.8
@@ -46,7 +44,6 @@ pexpect==4.6.0
 Pillow==7.0.0
 ply==3.11
 protobuf==3.6.1
-psutil==5.9.0
 pycairo==1.16.2
 pycparser==2.19
 pycrypto==2.6.1
