@@ -1,4 +1,4 @@
 # pyLegacy
 
 ---
-Based on [http://malkafly.github.io/endcredits/](http://malkafly.github.io/endcredits/)
+Based on [malkafly/endcredits](https://github.com/malkafly/endcredits)'s source code.
